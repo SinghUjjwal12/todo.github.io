@@ -16,6 +16,7 @@
 .logo img{
     height: 650px;
     margin-top: 150px;
+    width: 35rem;
 }
 .todo-box{
     width: 100%;
@@ -115,5 +116,5 @@ ul li span:hover{
     color: black;
 }
 .logo {
-    width: 46rem;
+    width: 35rem;
 }
